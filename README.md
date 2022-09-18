@@ -10,6 +10,10 @@ Android Jetpack Compose Pathway for an experience android developer
 
 # Guides
 
-* Create a new branch for each pathway
-* Open the link on each pathway, and ensure you follow to the end
+* Fork this repo
+* Open the link on each pathway, and ensure you complete all the codelab
+* Take Quiz
+* Push your final code to the correspondent pathway branch
+* Move to the next Pathway
 * Be consistent👌
+* Happy Learning 🥰😍
